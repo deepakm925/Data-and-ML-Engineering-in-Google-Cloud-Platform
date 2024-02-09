@@ -13,4 +13,4 @@ In this Project we will be covering the Basics of loading, editing and modifying
 
 ## PROJECT STEPS
 ### Creating a New Project in Google Platform Console
-[new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)!
+![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
