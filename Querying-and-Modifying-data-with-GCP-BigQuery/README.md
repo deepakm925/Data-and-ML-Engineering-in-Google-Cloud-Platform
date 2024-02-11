@@ -13,5 +13,7 @@ In this Project we will be covering the Basics of loading, editing and modifying
 - Load and create queries using SQL in the newly created dataset
 
 ## PROJECT STEPS
+All Project steps will be displayed using GIFs for better understanding and appeal!
+
 ### STEP ONE: Creating a New Project in Google Platform Console
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
