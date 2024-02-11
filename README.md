@@ -1,4 +1,4 @@
-![gcp-logo](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/cloud%20logo.png)
+![gcp-logo-1](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/GCP-logo%20-%20Copy.jpg)
 
 # DESCRIPTION
 You will find all my projects in this repository using various tools from the Google Cloud Platform. 
