@@ -1,3 +1,4 @@
+![bigquery-logo](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/Bigquery-project-logo.jpg)
 # QUERYING AND MODIFYING A DATASET WITH GOOGLE CLOUD PLATFORMS's BIG QUERY
 
 ## DESCRIPTION
