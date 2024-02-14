@@ -6,7 +6,7 @@ In this Project we will be covering the Basics of loading, editing and modifying
 
 ## WHAT TO EXPECT
 - Create a new Project
-- Enable the BigQuery API
+- Enable the BigQuery API Access
 - Open BigQuery Studio to download a public dataset to use
 - Use MySQL command to perform queries on the dataset
 - Modify Data from a text document to CSV format
@@ -19,3 +19,5 @@ All Project steps will be displayed using GIFs for better understanding and appe
 In this first step we will create a **New Project ** in our Google CLoud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
 
+### STEP TWO: ENABLE THE BIGQUERY API ACCESS
+![api-access](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/enabling-api-access.gif)
