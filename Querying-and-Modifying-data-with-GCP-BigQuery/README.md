@@ -5,7 +5,7 @@
 In this Project, we will dive into using one of the biggest Data warehousing tools Google Cloud's BigQuery application. Here we will cover the Basics of loading, editing, and modifying datasets and databases in BigQuery. The language that is used to communicate with the database to extract queries is SQL. 
 
 ### The Dataset
-
+The dataset is a public dataset called : [USA-NAMES](https://console.cloud.google.com/marketplace/product/social-security-administration/us-names?project=practical-block-410401)which can be found within the Google Cloud console's exploration feature. 
 
 ## WHAT TO EXPECT
 - Create a new Project
