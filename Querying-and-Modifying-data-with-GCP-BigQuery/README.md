@@ -2,7 +2,10 @@
 # QUERYING AND MODIFYING A DATASET WITH GOOGLE CLOUD PLATFORMS's BIG QUERY
 
 ## DESCRIPTION
-In this Project we will be covering the Basics of loading, editing and modifying data in Google Cloud's BigQuery application. BigQuery is a helpful tool when it comes to managing databases. The language that is used to communicate with the database is SQL mainly MYSQL. 
+In this Project, we will dive into using one of the biggest Data warehousing tools Google Cloud's BigQuery application. Here we will cover the Basics of loading, editing, and modifying datasets and databases in BigQuery. The language that is used to communicate with the database to extract queries is SQL. 
+
+### The Dataset
+
 
 ## WHAT TO EXPECT
 - Create a new Project
@@ -16,7 +19,7 @@ In this Project we will be covering the Basics of loading, editing and modifying
 All Project steps will be displayed using GIFs for better understanding and appeal!
 
 ### STEP ONE: Creating a New Project in Google Platform Console
-In this first step we will create a **New Project ** in our Google CLoud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
+In this first step, we will create a **New Project ** in our Google Cloud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
 
 ### STEP TWO: ENABLE THE BIGQUERY API ACCESS
