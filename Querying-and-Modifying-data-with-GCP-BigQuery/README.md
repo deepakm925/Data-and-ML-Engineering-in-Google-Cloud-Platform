@@ -24,3 +24,6 @@ In this first step, we will create a **New Project ** in our Google Cloud Consol
 
 ### STEP TWO: ENABLE THE BIGQUERY API ACCESS
 ![api-access](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/enabling-api-access.gif)
+
+### STEP THREE: DOWNLOAD A PUBLIC DATASET TO USE
+![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/download-public-data-usanames.gif)
