@@ -27,3 +27,6 @@ In this first step, we will create a **New Project ** in our Google Cloud Consol
 
 ### STEP THREE: DOWNLOAD A PUBLIC DATASET TO USE
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/download-public-data-usanames.gif)
+
+### STEP FOUR : QUERYING SAMPLE OF THE DATASET USING SQL COMMANDS
+![querying-sample-sql](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/querying-sample-dataset.gif)
