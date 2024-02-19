@@ -7,7 +7,7 @@ In this Project, we will dive into using one of the biggest Data warehousing too
 ### The Dataset
 The dataset is a public dataset called : [USA-NAMES](https://console.cloud.google.com/marketplace/product/social-security-administration/us-names?project=practical-block-410401)which can be found within the Google Cloud console's exploration feature. 
 
-## WHAT TO EXPECT
+## WHAT TO EXPECT...
 - Create a new Project
 - Enable the BigQuery API Access
 - Open BigQuery Studio to download a public dataset to use
@@ -18,7 +18,7 @@ The dataset is a public dataset called : [USA-NAMES](https://console.cloud.googl
 ## PROJECT STEPS
 All Project steps will be displayed using GIFs for better understanding and appeal!
 
-### STEP ONE: Creating a New Project in Google Platform Console
+### <ins> Creating a New Project in Google Platform Console </ins>
 In this first step, we will create a **New Project ** in our Google Cloud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
 
