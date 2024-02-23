@@ -34,5 +34,9 @@ In this first step, we will create a **New Project ** in our Google Cloud Consol
 ### STEP FIVE : 
 ![create-new-dataset](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/create-new-dataset.gif)
 
+### STEP SIX 
+![final-step](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/final-querying-newquery-newdataset.gif)
+
+
 
 
