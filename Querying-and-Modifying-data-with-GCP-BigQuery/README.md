@@ -18,7 +18,7 @@ The dataset is a public dataset called : [USA-NAMES](https://console.cloud.googl
 ## PROJECT STEPS
 All Project steps will be displayed using GIFs with me implementing the steps. This enhances the appeal and understanding of the project. 
 
-### <ins> STEP ONE : Creating a New Project in Google Platform Console </ins>
+### <ins> STEP ONE: Creating a New Project in Google Platform Console </ins>
 In this first step, we will create a **New Project ** in our Google Cloud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
 
@@ -30,3 +30,9 @@ In this first step, we will create a **New Project ** in our Google Cloud Consol
 
 ### STEP FOUR: QUERYING SAMPLE OF THE DATASET USING SQL COMMANDS
 ![querying-sample-sql](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/querying-sample-dataset.gif)
+
+### STEP FIVE : 
+![create-new-dataset](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/create-new-dataset.gif)
+
+
+
