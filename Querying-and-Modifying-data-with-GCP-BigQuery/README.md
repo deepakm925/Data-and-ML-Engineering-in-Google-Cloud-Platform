@@ -22,7 +22,8 @@ All Project steps will be displayed using GIFs with me implementing the steps. T
 In this first step, we will create a **New Project ** in our Google Cloud Console. We can name it whatever we wish, but I chose to name mine **My-first-BigQuery-Project**. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/new-project.gif)
 
-### STEP TWO: ENABLE THE BIGQUERY API ACCESS
+### <ins> STEP TWO: ENABLE THE BIGQUERY API ACCESS </ins>
+In this step, in order to use the BigQuery application we need to enable its API access. Enabling the API access allows the cloud framework to send and recieve data. 
 ![api-access](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/enabling-api-access.gif)
 
 ### STEP THREE: DOWNLOAD A PUBLIC DATASET TO USE
