@@ -26,7 +26,8 @@ In this first step, we will create a **New Project ** in our Google Cloud Consol
 In this step, in order to use the BigQuery application we need to enable its API access. Enabling the API access allows the cloud framework to send and recieve data. 
 ![api-access](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/enabling-api-access.gif)
 
-### STEP THREE: DOWNLOAD A PUBLIC DATASET TO USE
+### <ins> STEP THREE: DOWNLOAD A PUBLIC DATASET TO USE</ins>
+Here we will obtain a dataset from the Google cloud public dataset repository. 
 ![new-project](https://github.com/deepakm925/Google-CLoud-Platform/blob/main/Querying-and-Modifying-data-with-GCP-BigQuery/resources/download-public-data-usanames.gif)
 
 ### STEP FOUR: QUERYING SAMPLE OF THE DATASET USING SQL COMMANDS
