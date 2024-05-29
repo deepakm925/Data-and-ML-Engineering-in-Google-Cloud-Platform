@@ -14,5 +14,5 @@ You will find all my projects in this repository using various Data and Machine 
    
 3. VERTEX AI
 
-    a. Making Predictions using Vertex AI's Auto ML
-    b. 
+    a. Making Predictions using Vertex AI's Auto ML (WORK IN PROGRESS!)
+    
