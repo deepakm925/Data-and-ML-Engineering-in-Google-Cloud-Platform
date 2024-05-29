@@ -9,7 +9,7 @@ You will find all my projects in this repository using various Data and Machine 
 1. INTRO PROJECT - QUERYING AND MODIFYING A DATASET WITH GOOGLE CLOUD PLATFORMS's BIG QUERY
 
 2. GCP-BIGQUERY
-   
-       a. Making Predictions in BigQuery ML using SQL (WORK IN PROGRESS!)
+
+   a. Making Predictions in BigQuery ML using SQL (WORK IN PROGRESS!)
    
 
