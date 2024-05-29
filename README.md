@@ -8,8 +8,11 @@ You will find all my projects in this repository using various Data and Machine 
 
 1. INTRO PROJECT - QUERYING AND MODIFYING A DATASET WITH GOOGLE CLOUD PLATFORMS's BIG QUERY
 
-2. GCP-BIGQUERY
+2. FOLDER: GCP-BIGQUERY
 
    a. Making Predictions in BigQuery ML using SQL (WORK IN PROGRESS!)
    
+3. VERTEX AI
 
+    a. Making Predictions using Vertex AI's Auto ML
+    b. 
