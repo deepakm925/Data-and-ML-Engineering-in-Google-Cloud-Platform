@@ -1,3 +1,4 @@
+![dataprep](https://github.com/deepakm925/Data-and-ML-Engineering-in-Google-Cloud-Platform/blob/main/Creating-an-Analytics-Pipeline-using-Trifacta-Dataprep/resources/GoogleCloud%20Trifacta%20Dataprep.png)
 # CREATING AN ANALYTICS PIPELINE USING TRIFACTA's DATAPREP APPLICATION
 
 ### DESCRIPTION
