@@ -8,3 +8,5 @@ Similar to Microsoft Power BI and its respective libraries for performing data a
 - Explore dataset quality with Cloud Dataprep
 - Create a data transformation pipeline with Cloud Dataprep
 - Schedule transformation jobs outputs to BigQuery
+
+# (CURRENTLY IN DEVELOPMENT, MORE CONTENT COMING SOON!)
